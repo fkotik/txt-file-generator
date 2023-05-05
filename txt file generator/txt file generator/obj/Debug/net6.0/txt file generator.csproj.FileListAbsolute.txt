@@ -1,0 +1,15 @@
+G:\Прога\zdf[et\txt file generator\txt file generator\bin\Debug\net6.0\txt file generator.exe
+G:\Прога\zdf[et\txt file generator\txt file generator\bin\Debug\net6.0\txt file generator.deps.json
+G:\Прога\zdf[et\txt file generator\txt file generator\bin\Debug\net6.0\txt file generator.runtimeconfig.json
+G:\Прога\zdf[et\txt file generator\txt file generator\bin\Debug\net6.0\txt file generator.dll
+G:\Прога\zdf[et\txt file generator\txt file generator\bin\Debug\net6.0\txt file generator.pdb
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\txt file generator.csproj.AssemblyReference.cache
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\txt file generator.GeneratedMSBuildEditorConfig.editorconfig
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\txt file generator.AssemblyInfoInputs.cache
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\txt file generator.AssemblyInfo.cs
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\txt file generator.csproj.CoreCompileInputs.cache
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\txt file generator.dll
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\refint\txt file generator.dll
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\txt file generator.pdb
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\txt file generator.genruntimeconfig.cache
+G:\Прога\zdf[et\txt file generator\txt file generator\obj\Debug\net6.0\ref\txt file generator.dll
